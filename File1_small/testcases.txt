@@ -1,0 +1,7 @@
+1. Navigate from splash to popular,CLICK_COORDS,1262,769,SLEEP,2,CHECK,POPULAR RECIPES
+2. Navigate from popular to menu,CLICK_COORDS,39,57,SLEEP,2,CHECK,MENU
+3. Navigate from menu to favorite,CLICK,FAVORITE RECIPES,SLEEP,2,CHECK,FAVORITE RECIPES
+4. Navigate from favorite to menu,CLICK_COORDS,39,57,SLEEP,2,CHECK,MENU
+5. Navigate from menu to saved,CLICK,saved recipes,SLEEP,2,CHECK,SAVED RECIPES
+6. Navigate from saved to menu,CLICK_COORDS,39,57,SLEEP,2,CHECK,MENU
+7. Navigate from menu to popular,CLICK,Popular recipes,SLEEP,2,CHECK,POPULAR RECIPES
